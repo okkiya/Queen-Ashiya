@@ -39,17 +39,17 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Yeshan Basnayake']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['💗Nelushaـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94701363708'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Yeshan'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗Nelushaـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©💗Nelushaـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚.'
 
 global.ig = 'https://github.com/BlackPant'
 
