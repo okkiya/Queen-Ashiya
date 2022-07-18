@@ -24,7 +24,7 @@ World best multi device whatsapp bot🖤
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-> <a href="https://github.com/BlackPanther-svg/Queen-Ashiya/discussions"><img src="https://user-images.githubusercontent.com/105980099/177285430-7c7c67f1-30b2-43d1-a30c-667682c4e320.png" alt="nz" width="100"/> 
+> <a href="(https://github.com/okkiya/Queen-Ashiya.git)"><img src="https://user-images.githubusercontent.com/105980099/177285430-7c7c67f1-30b2-43d1-a30c-667682c4e320.png" alt="nz" width="100"/> 
 
 # [`𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛`](http://wa.me/94741671668)
 
